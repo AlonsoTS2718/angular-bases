@@ -1,0 +1,9 @@
+.enfasis-hero{
+    /* font-weight: bold; */
+    color: rgb(218, 82, 82);
+    font-size: 18px;
+}
+.titulo-enfasis-hero{
+    font-size: 18px;
+    font-weight: bold;
+}
